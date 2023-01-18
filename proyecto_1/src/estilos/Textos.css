@@ -1,0 +1,39 @@
+
+.div-textos{
+    width: 1200px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 3px 13px 1px rgba(0, 0, 0, 9%);
+}
+
+.img-textos{
+    height: 100%;
+    width: auto;
+}
+
+.div-text-textos{
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+
+}
+
+.nombre-textos{
+    font-size: 1.3rem;
+}
+
+.exp-textos{
+    font-size: 1.2rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.text-textos{
+    font-size: 1.1rem;
+    text-align: justify;
+}

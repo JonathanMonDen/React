@@ -1,0 +1,13 @@
+.welcome-container{
+    background-color: aquamarine;
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+    background-image: url('../imagenes/testimonio-shawn.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
